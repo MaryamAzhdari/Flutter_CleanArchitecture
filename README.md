@@ -1,16 +1,1 @@
-# clean_architecture
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="url"><img src="https://github.com/user-attachments/assets/e9c788a4-6424-4762-acf8-96571b2ff1f6" align="center" height="300" width="170" ></a>      <a href="url"><img src="https://github.com/user-attachments/assets/693ee431-d648-48ea-91c0-a85d3da8e1ba" align="center" height="300" width="170" ></a>      <a href="url"><img src="https://github.com/user-attachments/assets/9558da1b-2ff3-4358-80f4-daa2c0cbf72f" align="center" height="300" width="170" ></a>
